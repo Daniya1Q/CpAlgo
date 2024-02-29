@@ -1,0 +1,3 @@
+﻿  RpgGame.cpp
+C:\Users\Dani\source\repos\BattleRealms\BattleRealms\RpgGame.cpp(57,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BattleRealms.vcxproj -> C:\Users\Dani\source\repos\BattleRealms\x64\Debug\BattleRealms.exe
